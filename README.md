@@ -1,8 +1,5 @@
 ### Eae!! Sou o Luiz 👋
 
-- 🔭 Hoje estou trobalhando com back-end
-- 🌱 Estudando muito ....
-
 <div align="center">
   <a href="https://github.com/LuizGrochevski">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=LuizGrochevski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
