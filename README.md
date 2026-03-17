@@ -21,3 +21,24 @@
   <a href="https://www.linkedin.com/in/luiz-felipe-grochevski-413125190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+# Luiz Felipe | Backend & Cybersecurity
+
+Focado em desenvolvimento backend e segurança ofensiva (pentest e AppSec).
+
+## 🔧 Tecnologias
+- Java / Python
+- Linux
+- Redes (TCP/IP, portas, protocolos)
+
+## 🛡️ Segurança
+- Estudando Pentest (TryHackMe / Hack The Box)
+- Ferramentas: Nmap, Gobuster, SQLMap
+
+## 📌 Atualmente
+- Google Cybersecurity Certificate
+- Construindo labs práticos de segurança
+
+## 📂 Projetos em destaque
+- Pentest Labs (em construção)
+- API com autenticação JWT
