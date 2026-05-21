@@ -1,40 +1,41 @@
 # Luiz Felipe
 
-Desenvolvedor focado em **backend** e em transição estratégica para **cybersecurity**, com interesse em **pentest** e **AppSec**.
+Desenvolvedor focado em **Backend** e em transição estratégica para **Cybersecurity**, com foco em **Pentest**, **AppSec** e ferramentas de automação de rede.
 
 <div align="center">
-  <a href="https://github.com/LuizGrochevski">
-    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=LuizGrochevski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGrochevski&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  <img src="https://img.shields.io/badge/OS-Linux-A81D33?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Study-Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Hack%20The%20Box-9FEF00?style=flat-square&logo=hack-the-box&logoColor=black" />
 </div>
 
-## Sobre mim
+## 📌 Sobre mim
 
-- Estudando **segurança ofensiva**, **pentest** e **AppSec**
-- Construindo projetos práticos em **backend**, **laboratórios de segurança** e **documentação técnica**
-- Atualmente cursando o **Google Cybersecurity Certificate**
-- Interesse em **Linux**, **redes**, **enumeração**, **segurança de aplicações** e **automação**
+- 🎯 Desenvolvendo ferramentas robustas de segurança cibernética e automação com **Rust** e **Tokio Async**.
+- 🔐 Estudando **segurança ofensiva**, **pentest** e **AppSec** através de laboratórios práticos e desafios reais.
+- 🎓 Atualmente cursando Engenharia de Software e o **Google Cybersecurity Certificate**.
+- 🌐 Sólidos conhecimentos em arquitetura de redes, análise de tráfego, enumeração de portas e comportamento de protocolos.
 
-## Tecnologias e fundamentos
+## 🛠️ Tecnologias e Fundamentos
 
-- **Linguagens:** Java, Python, JavaScript, HTML, CSS, Dart
-- **Ambiente:** Linux, terminal, Git, GitHub
-- **Fundamentos:** TCP/IP, portas, protocolos, HTTP, autenticação, APIs
-- **Segurança:** Nmap, Gobuster, SQLMap, reconhecimento, enumeração e análise básica de vulnerabilidades
+| Categoria | Tecnologias dominadas e em estudo |
+| :--- | :--- |
+| **Linguagens** | Rust, Java, Spring Boot, Python, JavaScript, Dart/Flutter |
+| **Fundamentos** | Arquitetura TCP/IP, Sockets, Cabeçalhos HTTP, Modelo OSI, APIs REST |
+| **Segurança** | Reconhecimento Ativo/Passivo, Enumeração, Banner Grabbing, Nmap, Gobuster, SQLMap |
+| **Ambiente** | Linux (Terminal Avançado), Git/GitHub, Docker, Engenharia Assíncrona |
 
-## Projetos em destaque
+## 🚀 Projetos em Destaque
 
-- **pentest-labs** → laboratórios práticos de pentest, enumeração e writeups
-- **API com autenticação JWT** → projeto focado em backend e segurança de autenticação
-- **Projetos de estudo full stack** → construção de base prática em aplicações web
+- **[sentinel-rs](https://github.com/LuizGrochevski/sentinel-rs)** 🛡️ → Scanner de portas assíncrono e ultra rápido construído em Rust. Conta com mapeamento de hosts ativos em paralelo (Host Discovery) e detecção inteligente de serviços via injeção de payloads (Probes para HTTP, SSH, MySQL, Redis).
+- **pentest-labs** 🧪 → Laboratórios práticos de invasão, enumeração de diretórios e writeups detalhados de vulnerabilidades.
+- **API com Autenticação JWT** 🔑 → Projeto de backend focado em desenvolvimento seguro, criptografia de credenciais e controle de sessões.
 
-## Objetivo atual
+## 🎯 Objetivo Atual
 
-Consolidar uma base forte em **desenvolvimento seguro** e **segurança ofensiva**, criando projetos que demonstrem raciocínio técnico, documentação clara e evolução contínua.
+Consolidar uma base técnica de excelência em **Desenvolvimento Seguro** e **Segurança Ofensiva**, focando em projetos práticos que combinem alta performance de código com resiliência defensiva.
 
-## Contato
+## 🤝 Contato
 
 <a href="https://www.linkedin.com/in/luiz-felipe-grochevski-413125190/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
