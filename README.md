@@ -26,9 +26,9 @@ Desenvolvedor focado em **Backend** e em transição estratégica para **Cyberse
 
 ## 🚀 Projetos em Destaque
 
-- **[sentinel-rs](https://github.com/LuizGrochevski/sentinel-rs)** 🛡️ → Scanner de portas assíncrono e ultra rápido construído em Rust. Conta com mapeamento de hosts ativos em paralelo (Host Discovery) e detecção inteligente de serviços via injeção de payloads (Probes para HTTP, SSH, MySQL, Redis).
-- **pentest-labs** 🧪 → Laboratórios práticos de invasão, enumeração de diretórios e writeups detalhados de vulnerabilidades.
-- **API com Autenticação JWT** 🔑 → Projeto de backend focado em desenvolvimento seguro, criptografia de credenciais e controle de sessões.
+- **[Sentinel-RS](https://github.com/LuizGrochevski/Sentinel-RS)** 🛡️ → Scanner de rede assíncrono em Rust, com paralelismo via Tokio, SYN scanning, fingerprinting de serviços (40+ assinaturas), TLS fingerprinting e exportação para Nmap XML.
+- **[netwatch-api](https://github.com/LuizGrochevski/netwatch-api)** 🔌 → API REST em Python/FastAPI integrada ao sentinel-rs, com autenticação JWT, scan de portas em paralelo, persistência em SQLite e exportação de relatórios (CSV/Markdown), containerizada com Docker.
+- **[syswatch-tui](https://github.com/LuizGrochevski/syswatch-tui)** 📊 → Dashboard de terminal em Rust (Ratatui/Crossterm) para monitoramento de CPU, memória, processos e rede, com coleta de métricas adaptada para ambientes Android/Termux.
 
 ## 🎯 Objetivo Atual
 
