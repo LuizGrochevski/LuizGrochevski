@@ -5,7 +5,7 @@ Desenvolvedor focado em **Backend** e em transição estratégica para **Cyberse
 <div align="center">
   <img src="https://img.shields.io/badge/OS-Linux-A81D33?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Study-Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-Hack%20The%20Box-9FEF00?style=flat-square&logo=hack-the-box&logoColor=black" />
+  <img
 </div>
 
 ## 📌 Sobre mim
