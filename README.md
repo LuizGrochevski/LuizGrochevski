@@ -41,6 +41,6 @@ Consolidar uma base técnica de excelência em **Desenvolvimento Seguro** e **Se
 
 ## 🤝 Contato
 
-<a href="https://www.linkedin.com/in/luiz-felipe-grochevski-413125190/" target="_blank">
+<a href="https://www.linkedin.com/in/luiz-felipe-grochevski/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
