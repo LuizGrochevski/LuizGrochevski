@@ -1,11 +1,9 @@
 # Luiz Felipe de Mello Grochevski
 
 Desenvolvedor focado em **Backend** e em transição estratégica para **Cybersecurity**, com foco em **Pentest**, **AppSec** e ferramentas de automação de rede.
-
 <div align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-A81D33?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Study-Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img
+  <img src="https://img.shields.io/badge/OS-Linux-A81D33?style=flat-square&logo=linux&logoColor=white" alt="Linux OS" />
+  <img src="https://img.shields.io/badge/Study-Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity" />
 </div>
 
 ## 📌 Sobre mim
@@ -41,6 +39,6 @@ Consolidar uma base técnica de excelência em **Desenvolvimento Seguro** e **Se
 
 ## 🤝 Contato
 
-<a href="https://www.linkedin.com/in/luiz-felipe-grochevski/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://br.linkedin.com/in/luiz-felipe-grochevski" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Luiz Felipe de Mello Grochevski" />
 </a>
