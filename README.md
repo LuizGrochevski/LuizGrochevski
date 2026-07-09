@@ -24,9 +24,9 @@ Desenvolvedor focado em **Backend** e em transição estratégica para **Cyberse
 
 ## 🚀 Projetos em Destaque
 
-Cinco projetos que formam um pipeline completo de auditoria de rede — do scan ao relatório de vulnerabilidades, com detecção ativa de atacantes:
+Seis projetos que formam um pipeline completo de auditoria de rede — do scan ao relatório de vulnerabilidades, com detecção ativa de atacantes:
 
-- **[Sentinel-RS](https://github.com/LuizGrochevski/Sentinel-RS)** 🛡️ → Scanner de rede assíncrono em Rust, com paralelismo via Tokio, SYN scanning, fingerprinting de serviços (40+ assinaturas), TLS fingerprinting e exportação para Nmap XML.
+- **[Sentinel-RS](https://github.com/LuizGrochevski/Sentinel-RS)** 🛡️ → Scanner de rede assíncrono em Rust, com paralelismo via Tokio, SYN scanning, fingerprinting de serviços (64+ assinaturas), TLS fingerprinting via JA3S e exportação para Nmap XML.
 - **[netwatch-api](https://github.com/LuizGrochevski/netwatch-api)** 🔌 → API REST em Python/FastAPI integrada ao sentinel-rs, com autenticação JWT, scan de portas em paralelo, persistência em SQLite e exportação de relatórios (CSV/Markdown), containerizada com Docker.
 - **[cve-lookup](https://github.com/LuizGrochevski/cve-lookup)** 🔎 → CLI em Python para consulta de vulnerabilidades na NVD, com matching via CPE (`virtualMatchString`) e fallback para busca por keyword, severidade calculada por CVSS v3.1/v3.0/v2 e saída colorida em terminal.
 - **[netwatch-dashboard](https://github.com/LuizGrochevski/netwatch-dashboard)** 🖥️ → Painel web em React + Vite para visualização de scans em tempo real, integrando Sentinel-RS, Netwatch-API e CVE Lookup num único fluxo — do scan de rede à vulnerabilidade conhecida, construído inteiramente em ambiente mobile (Termux).
@@ -35,7 +35,7 @@ Cinco projetos que formam um pipeline completo de auditoria de rede — do scan 
 
 ## 🎯 Objetivo Atual
 
-Consolidar uma base técnica de excelência em **Desenvolvimento Seguro** e **Segurança Ofensiva**, focando em projetos práticos que combinem alta performance de código com resiliência defensiva.
+Consolidar um posicionamento como **Security Software Engineer** — combinando backend robusto (FastAPI, Rust assíncrono) com ferramentas de auditoria ofensiva/defensiva próprias, cada projeto servindo como evidência prática dessa transição de Backend Developer para AppSec/Security Engineering.
 
 ## 🤝 Contato
 
