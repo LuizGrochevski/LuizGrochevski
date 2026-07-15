@@ -41,7 +41,10 @@ Seis projetos que formam um pipeline completo de auditoria de rede — do scan a
 
 ## 🎯 Objetivo Atual
 
-Consolidar um posicionamento como **Security Software Engineer** — combinando backend robusto (FastAPI, Rust assíncrono) com ferramentas de auditoria ofensiva/defensiva próprias, cada projeto servindo como evidência prática dessa transição de Backend Developer para AppSec/Security Engineering.
+Atuar como **Backend Developer** (Java/Spring Boot e Flutter), 
+aplicando também conhecimentos de segurança ofensiva/defensiva como 
+diferencial técnico — cada projeto do pipeline serve como evidência 
+prática dessa combinação backend + security.
 
 ## 🤝 Contato
 
