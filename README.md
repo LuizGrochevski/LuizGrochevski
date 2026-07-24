@@ -1,6 +1,7 @@
 # Luiz Felipe de Mello Grochevski
 
-Desenvolvedor focado em **Backend** e em transição estratégica para **Cybersecurity**, com foco em **Pentest**, **AppSec** e ferramentas de automação de rede.
+Desenvolvedor **Backend** (Java/Spring Boot) e **Flutter**, com 3+ anos 
+de experiência em produção e um diferencial forte em Security Engineering.
 <div align="center">
   <img src="https://img.shields.io/badge/OS-Linux-A81D33?style=flat-square&logo=linux&logoColor=white" alt="Linux OS" />
   <img src="https://img.shields.io/badge/Study-Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity" />
@@ -8,10 +9,15 @@ Desenvolvedor focado em **Backend** e em transição estratégica para **Cyberse
 
 ## 📌 Sobre mim
 
-- 🎯 Desenvolvendo ferramentas robustas de segurança cibernética e automação com **Rust** e **Tokio Async**.
-- 🔐 Estudando **segurança ofensiva**, **pentest** e **AppSec** através de laboratórios práticos e desafios reais.
-- 🎓 Atualmente cursando Engenharia de Software e o **Google Cybersecurity Certificate**.
-- 🌐 Sólidos conhecimentos em arquitetura de redes, análise de tráfego, enumeração de portas e comportamento de protocolos.
+- 💼 3+ anos construindo e mantendo aplicações backend e mobile em 
+  produção (TX Fuel, Evo Sistemas, DIXI Soluções).
+- 🛠️ Stack principal: Java, Spring Boot, Flutter/Dart, APIs REST, 
+  PostgreSQL, arquitetura de microsserviços.
+- 🔐 Como diferencial, desenvolvo ferramentas próprias de segurança 
+  ofensiva/defensiva em Rust (scanner de rede, honeypot, CVE lookup) 
+  — aplicando na prática o que estudo em AppSec e pentest.
+- 🎓 Engenharia de Software (Universidade Positivo) + Google 
+  Cybersecurity Certificate em andamento.
 
 ## 🛠️ Tecnologias e Fundamentos
 
@@ -40,7 +46,10 @@ Oito projetos que formam um pipeline completo — do scan de rede ao relatório 
 
 ## 🎯 Objetivo Atual
 
-Consolidar um posicionamento como **Security Software Engineer** — combinando backend robusto (FastAPI, Rust assíncrono, Spring Boot) com ferramentas de auditoria ofensiva/defensiva próprias que cobrem tanto rede quanto aplicação (APIs e código-fonte), cada projeto servindo como evidência prática dessa transição de Backend Developer para AppSec/Security Engineering.
+Atuar como **Backend Developer** (Java/Spring Boot e Flutter), 
+aplicando também conhecimentos de segurança ofensiva/defensiva como 
+diferencial técnico — cada projeto do pipeline serve como evidência 
+prática dessa combinação backend + security.
 
 ## 🤝 Contato
 
