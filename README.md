@@ -31,7 +31,7 @@ de experiência em produção e um diferencial forte em Security Engineering.
 
 ## 🚀 Projetos em Destaque
 
-Dez projetos que formam um pipeline completo — do scan de rede ao relatório de vulnerabilidades de API e código, com detecção ativa de atacantes:
+Onze projetos que formam um pipeline completo — do scan de rede ao relatório de vulnerabilidades de API e código, com detecção ativa de atacantes:
 
 **Pipeline de auditoria de rede**
 - **[Sentinel-RS](https://github.com/LuizGrochevski/Sentinel-RS)** 🛡️ → Scanner de rede assíncrono em Rust, com paralelismo via Tokio, SYN scanning, fingerprinting de serviços (64+ assinaturas), TLS fingerprinting via JA3S e exportação para Nmap XML.
@@ -45,6 +45,7 @@ Dez projetos que formam um pipeline completo — do scan de rede ao relatório d
 - **[apisec-rs](https://github.com/LuizGrochevski/apisec-rs)** 🔓 → Ferramenta em Rust que lê uma spec OpenAPI/Swagger e testa uma API real em busca de falhas: autenticação quebrada (OWASP API2) com requisições reais schema-válidas, IDOR/BOLA (OWASP API1), headers de segurança ausentes e rate limiting ausente — com exportação de relatório em JSON/Markdown.
 - **[javasast-rs](https://github.com/LuizGrochevski/javasast-rs)** 🔍 → Ferramenta SAST em Rust para código Java: 12 regras de detecção (SQL injection, secrets hardcoded, deserialização insegura, criptografia fraca, path traversal, XXE, CORS permissivo, command injection, insecure random, TLS mal configurado, log de dado sensível, SSRF), varredura .gitignore-aware paralelizada, modo baseline, exportação SARIF/JSON/Markdown e 35 testes automatizados.
 - **[javasast-maven-plugin](https://github.com/LuizGrochevski/javasast-maven-plugin)** 🔌 → Plugin Maven que roda o javasast-rs como parte do build, falhando o build automaticamente quando encontra vulnerabilidades acima da severidade configurada.
+- **[javasast-gradle-plugin](https://github.com/LuizGrochevski/javasast-gradle-plugin)** 🔌 → Plugin Gradle equivalente ao javasast-maven-plugin, encadeado na task `check`, com a mesma lógica de fail-on-severity.
 - **[insecure-java-lab](https://github.com/LuizGrochevski/insecure-java-lab)** 🧪 → Código Java deliberadamente vulnerável, usado como alvo de teste em tempo real para o javasast-rs e outras ferramentas SAST — cobre todas as 12 regras de detecção com exemplos reais.
 
 ## 🎯 Objetivo Atual
