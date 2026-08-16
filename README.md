@@ -31,7 +31,7 @@ de experiência em produção e um diferencial forte em Security Engineering.
 
 ## 🚀 Projetos em Destaque
 
-Onze projetos que formam um pipeline completo — do scan de rede ao relatório de vulnerabilidades de API e código, com detecção ativa de atacantes:
+Doze projetos que formam um pipeline completo — do scan de rede ao relatório de vulnerabilidades de API e código, com detecção ativa de atacantes:
 
 **Pipeline de auditoria de rede**
 - **[Sentinel-RS](https://github.com/LuizGrochevski/Sentinel-RS)** 🛡️ → Scanner de rede assíncrono em Rust, com paralelismo via Tokio, SYN scanning, fingerprinting de serviços (64+ assinaturas), TLS fingerprinting via JA3S e exportação para Nmap XML.
@@ -47,6 +47,7 @@ Onze projetos que formam um pipeline completo — do scan de rede ao relatório 
 - **[javasast-maven-plugin](https://github.com/LuizGrochevski/javasast-maven-plugin)** 🔌 → Plugin Maven que roda o javasast-rs como parte do build, falhando o build automaticamente quando encontra vulnerabilidades acima da severidade configurada.
 - **[javasast-gradle-plugin](https://github.com/LuizGrochevski/javasast-gradle-plugin)** 🔌 → Plugin Gradle equivalente ao javasast-maven-plugin, encadeado na task `check`, com a mesma lógica de fail-on-severity.
 - **[insecure-java-lab](https://github.com/LuizGrochevski/insecure-java-lab)** 🧪 → Código Java deliberadamente vulnerável, usado como alvo de teste em tempo real para o javasast-rs e outras ferramentas SAST — cobre todas as 12 regras de detecção com exemplos reais.
+- **[secretscan-rs](https://github.com/LuizGrochevski/secretscan-rs)** 🔐 → Scanner de segredos expostos em código-fonte (chaves de API, senhas, tokens, chaves privadas) em Rust, com varredura de histórico do git (detecta segredos removidos do working directory mas ainda presentes em commits antigos), detecção por entropia opt-in, pre-commit hook e 22 testes automatizados.
 
 ## 🎯 Objetivo Atual
 
@@ -60,4 +61,3 @@ prática dessa combinação backend + security.
 <a href="https://br.linkedin.com/in/luiz-felipe-grochevski" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Luiz Felipe de Mello Grochevski" />
 </a>
-
