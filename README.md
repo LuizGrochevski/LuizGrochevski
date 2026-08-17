@@ -1,9 +1,10 @@
 # Luiz Felipe de Mello Grochevski
 
-**Backend Developer** (Java/Spring Boot + Flutter) | Security Engineering
+**Backend Developer** (Java/Spring Boot + Flutter) | Security Engineering  
 3+ anos em produção • Ferramentas próprias de AppSec em Rust
 
-> **TL;DR** — Desenvolvo backends robustos com foco em segurança aplicada; desenvolvo e mantenho ferramentas de AppSec em Rust.
+> **TL;DR** — Desenvolvo backends robustos com foco em segurança aplicada; desenvolvo e mantenho ferramentas de AppSec em Rust.  
+> Building in public — compartilho o processo, não só o resultado.
 
 <div align="center">
   <a href="https://github.com/LuizGrochevski"><img src="https://img.shields.io/badge/OS-Linux-A81D33?style=flat-square&logo=linux&logoColor=white" alt="Linux" /></a>
@@ -24,6 +25,7 @@
 - Stack principal: **Java, Spring Boot, Flutter/Dart, PostgreSQL, APIs REST**.
 - Diferencial: ferramentas de segurança ofensiva/defensiva em **Rust** (scanner de rede, SAST, API security, honeypot).
 - Engenharia de Software (Universidade Positivo) + Google Cybersecurity Certificate (em andamento).
+- Gosto de transformar estudo em ferramenta real — cada projeto do pipeline nasceu de algo que eu precisava na prática.
 
 ## Tecnologias
 
@@ -78,5 +80,11 @@ Atuar como **Backend Developer** (Java/Spring Boot e Flutter), aplicando Securit
 ## Contato
 
 <a href="https://br.linkedin.com/in/luiz-felipe-grochevski" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Luiz Felipe de Mello Grochevski" />
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.threads.com/@luiz.grochevski" target="_blank">
+  <img src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+</a>
+<a href="https://www.instagram.com/luiz.grochevski" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
