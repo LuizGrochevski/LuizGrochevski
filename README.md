@@ -1,6 +1,6 @@
 # Luiz Felipe de Mello Grochevski
 
-**Backend Developer** (Java/Spring Boot + Flutter) | Security Engineering  
+**Backend Developer** (Java/Spring Boot + Flutter) | Security Engineering
 3+ anos em produção • Ferramentas próprias de AppSec em Rust
 
 > **TL;DR** — Desenvolvo backends robustos com foco em segurança aplicada; desenvolvo e mantenho ferramentas de AppSec em Rust.
@@ -15,7 +15,6 @@
 - [Sobre mim](#sobre-mim)
 - [Tecnologias](#tecnologias)
 - [Projetos em Destaque](#projetos-em-destaque)
-- [Como rodar](#como-rodar)
 - [Objetivo](#objetivo)
 - [Contato](#contato)
 
@@ -38,9 +37,16 @@
 
 ## Projetos em Destaque
 
-Pipeline completo de auditoria e AppSec (rede → dashboard → análise):
+Dois pipelines independentes: auditoria de rede e AppSec de código.
 
 **Rede & Monitoramento**
+
+```
+Sentinel-RS (scan) → netwatch-api (orquestra) → cve-lookup (CVEs) → netwatch-dashboard (visualiza)
+                              ↑
+        traprs (detecção de ataques, roda em paralelo, alimenta via webhook)
+```
+
 - **[Sentinel-RS](https://github.com/LuizGrochevski/Sentinel-RS)** — Scanner assíncrono em Rust (TCP/UDP/SYN, fingerprinting 64+, TLS/JA3S, Nmap XML).
 - **[netwatch-api](https://github.com/LuizGrochevski/netwatch-api)** — API FastAPI + JWT que orquestra o Sentinel-RS.
 - **[netwatch-dashboard](https://github.com/LuizGrochevski/netwatch-dashboard)** — Painel web em React + Vite para visualização de scans em tempo real.
@@ -49,32 +55,21 @@ Pipeline completo de auditoria e AppSec (rede → dashboard → análise):
 - **[syswatch-tui](https://github.com/LuizGrochevski/syswatch-tui)** — Dashboard TUI em Rust (Ratatui) para monitoramento em Termux/Android.
 
 **AppSec**
+
+```
+javasast-rs / apisec-rs / secretscan-rs  (scanners independentes)
+                    ↓
+plugins Maven/Gradle (CI/CD)  +  insecure-java-lab (alvo de teste)
+                    ↓
+       Relatórios (JSON / Markdown / SARIF)
+```
+
 - **[javasast-rs](https://github.com/LuizGrochevski/javasast-rs)** — SAST para Java (12 regras OWASP, SARIF, baseline, plugins Maven/Gradle).
 - **[javasast-maven-plugin](https://github.com/LuizGrochevski/javasast-maven-plugin)** — Plugin Maven que roda javasast-rs durante o build.
 - **[javasast-gradle-plugin](https://github.com/LuizGrochevski/javasast-gradle-plugin)** — Plugin Gradle equivalente, integrado na task `check`.
 - **[insecure-java-lab](https://github.com/LuizGrochevski/insecure-java-lab)** — Código Java deliberadamente vulnerável usado como alvo de teste.
 - **[apisec-rs](https://github.com/LuizGrochevski/apisec-rs)** — Testes de API a partir de OpenAPI (auth quebrada, IDOR, headers, rate limit).
 - **[secretscan-rs](https://github.com/LuizGrochevski/secretscan-rs)** — Detecção de secrets (histórico git + entropia).
-
-## Como rodar
-
-Cada projeto tem instruções completas no seu próprio README. Exemplos rápidos:
-
-```bash
-# Ferramentas em Rust (Sentinel-RS, javasast-rs, secretscan-rs, apisec-rs)
-cargo build --release
-
-# netwatch-api (Python / FastAPI)
-# veja o README do projeto — Docker Compose ou uvicorn
-```
-
-Links diretos:
-- [Sentinel-RS](https://github.com/LuizGrochevski/Sentinel-RS)
-- [netwatch-api](https://github.com/LuizGrochevski/netwatch-api)
-- [netwatch-dashboard](https://github.com/LuizGrochevski/netwatch-dashboard)
-- [javasast-rs](https://github.com/LuizGrochevski/javasast-rs)
-- [apisec-rs](https://github.com/LuizGrochevski/apisec-rs)
-- [secretscan-rs](https://github.com/LuizGrochevski/secretscan-rs)
 
 ## Objetivo
 
