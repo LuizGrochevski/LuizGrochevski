@@ -2,13 +2,16 @@
 
 **Backend Developer · Java / Spring Boot · Flutter · Security Engineering**
 
+[🇧🇷 Português](./README.md) · 🇺🇸 **English**
+
 I turn study into real software. I like starting with a technical question or a concrete problem and turning what I learn into tools that can be tested and actually used.
 
 > **Current focus:** Backend Development with Java/Spring Boot, while deepening my work in Security Engineering and AppSec.
 
 <div align="center">
   <a href="https://github.com/LuizGrochevski"><img src="https://img.shields.io/badge/OS-Linux-A81D33?style=flat-square&logo=linux&logoColor=white" alt="Linux" /></a>
-  <a href="https://www.coursera.org/professional-certificates/google-cybersecurity"><img src="https://img.shields.io/badge/Study-Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity Certificate" /></a>
+  <a href="https://www.coursera.org/professional-certificates/google-cybersecurity"><img src="https://img.shields.io/badge/Study-Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity" /></a>
+  <a href="https://www.linkedin.com/in/luiz-felipe-grochevski"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 ## Contents
@@ -46,7 +49,7 @@ My projects are organized around two main areas: **Network Security** and **Appl
 
 ```text
 Sentinel-RS (scan) → netwatch-api (orchestrates) → cve-lookup (CVEs) → netwatch-dashboard (visualizes)
-                              ↑
+                             ↑
         traprs (attack detection, runs in parallel, feeds data via webhook)
 ```
 
@@ -61,10 +64,10 @@ Sentinel-RS (scan) → netwatch-api (orchestrates) → cve-lookup (CVEs) → net
 
 ```text
 javasast-rs / apisec-rs / secretscan-rs
-                    ↓
+                     ↓
 Maven/Gradle plugins + insecure-java-lab
-                    ↓
-       JSON / Markdown / SARIF
+                     ↓
+        JSON / Markdown / SARIF
 ```
 
 - **[javasast-rs](https://github.com/LuizGrochevski/javasast-rs)** — Java SAST with 12 OWASP rules, SARIF, baseline support, and Maven/Gradle integration.
