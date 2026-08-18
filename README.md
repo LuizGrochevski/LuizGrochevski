@@ -1,10 +1,8 @@
-# Luiz Felipe de Mello Grochevski
+# Luiz Felipe Grochevski
 
-**Backend Developer** (Java/Spring Boot + Flutter) | Security Engineering  
-3+ anos em produção • Ferramentas próprias de AppSec em Rust
+**Backend Developer · Java / Spring Boot · Flutter · Security Engineering**
 
-> **TL;DR** — Desenvolvo backends robustos com foco em segurança aplicada; desenvolvo e mantenho ferramentas de AppSec em Rust.  
-> Building in public — compartilho o processo, não só o resultado.
+Transformo estudo em software real. Meus projetos normalmente começam com uma pergunta técnica ou um problema que preciso resolver — e terminam em ferramentas testáveis e utilizáveis.
 
 <div align="center">
   <a href="https://github.com/LuizGrochevski"><img src="https://img.shields.io/badge/OS-Linux-A81D33?style=flat-square&logo=linux&logoColor=white" alt="Linux" /></a>
@@ -21,29 +19,29 @@
 
 ## Sobre mim
 
-- 3+ anos construindo e mantendo apps backend e mobile em produção (TX Fuel, Evo Sistemas, DIXI Soluções).
-- Stack principal: **Java, Spring Boot, Flutter/Dart, PostgreSQL, APIs REST**.
-- Diferencial: ferramentas de segurança ofensiva/defensiva em **Rust** (scanner de rede, SAST, API security, honeypot).
+- 3+ anos de experiência prática com desenvolvimento e manutenção de aplicações backend e mobile.
+- Stack principal: **Java, Spring Boot, Flutter/Dart, PostgreSQL e APIs REST**.
+- Diferencial: desenvolvimento de ferramentas de **Security Engineering em Rust** — network scanning, SAST, API security e honeypots.
 - Engenharia de Software (Universidade Positivo) + Google Cybersecurity Certificate (em andamento).
-- Gosto de transformar estudo em ferramenta real — cada projeto do pipeline nasceu de algo que eu precisava na prática.
+- Transformo estudo em software real: meus projetos normalmente nascem de uma pergunta técnica, um problema que quero entender ou algo que preciso construir.
 
 ## Tecnologias
 
-| Categoria | Dominadas | Em estudo / Uso frequente |
+| Categoria | Principal | Em desenvolvimento |
 | :--- | :--- | :--- |
 | **Linguagens** | Java, Rust, Dart/Flutter | Python |
-| **Frameworks** | Spring Boot, Quarkus | FastAPI |
-| **Fundamentos** | APIs REST, TCP/IP, HTTP, Sockets | Modelo OSI, Engenharia Assíncrona |
-| **Segurança** | OWASP Top 10, SAST, Nmap, SQLMap | Banner Grabbing, Enumeração |
+| **Frameworks** | Spring Boot, Quarkus, Flutter | FastAPI |
+| **Fundamentos** | REST, TCP/IP, HTTP, Sockets | Engenharia assíncrona |
+| **Segurança** | OWASP Top 10, SAST, Nmap, SQLMap | AppSec, Enumeração |
 | **Ambiente** | Linux, Git, Docker, Maven | Termux / Android |
 
 ## Projetos em Destaque
 
-Dois pipelines independentes: auditoria de rede e AppSec de código.
+Dois pipelines independentes: **auditoria de rede** e **AppSec de código**.
 
-**Rede & Monitoramento**
+### Rede & Monitoramento
 
-```
+```text
 Sentinel-RS (scan) → netwatch-api (orquestra) → cve-lookup (CVEs) → netwatch-dashboard (visualiza)
                               ↑
         traprs (detecção de ataques, roda em paralelo, alimenta via webhook)
@@ -56,9 +54,9 @@ Sentinel-RS (scan) → netwatch-api (orquestra) → cve-lookup (CVEs) → netwat
 - **[traprs](https://github.com/LuizGrochevski/traprs)** — Honeypot TCP (SSH/HTTP/HTTPS) com alertas em tempo real.
 - **[syswatch-tui](https://github.com/LuizGrochevski/syswatch-tui)** — Dashboard TUI em Rust (Ratatui) para monitoramento em Termux/Android.
 
-**AppSec**
+### AppSec
 
-```
+```text
 javasast-rs / apisec-rs / secretscan-rs  (scanners independentes)
                     ↓
 plugins Maven/Gradle (CI/CD)  +  insecure-java-lab (alvo de teste)
@@ -75,7 +73,7 @@ plugins Maven/Gradle (CI/CD)  +  insecure-java-lab (alvo de teste)
 
 ## Objetivo
 
-Atuar como **Backend Developer** (Java/Spring Boot e Flutter), aplicando Security Engineering como diferencial técnico. Aberto a oportunidades remotas ou híbridas.
+Atuar como **Backend Developer**, com foco em **Java/Spring Boot**, enquanto aprofundo minha atuação em **Security Engineering e AppSec**. Aberto a oportunidades remotas ou híbridas.
 
 ## Contato
 
